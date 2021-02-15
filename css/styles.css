@@ -58,6 +58,13 @@ a {
     height: 150px;
     width: 150px;
     margin-top: 50px;
+    border-radius: 100%;
+}
+
+.contact-me-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
 }
 
 .skill-img {
@@ -69,7 +76,7 @@ a {
 
 .skill-row {
     width: 50%;
-    margin: 0px auto 0px 20px;
+    margin: 0px auto auto 36%;
     text-align: left;
     line-height: 2;
 }
